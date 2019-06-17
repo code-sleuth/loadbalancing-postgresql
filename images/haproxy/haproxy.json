@@ -32,7 +32,7 @@
         },
         {
             "type": "file",
-		    "source": "../../supply_values.sh",
+		    "source": "../../values.sh",
 			"destination": "/home/packer/"
         },
         {

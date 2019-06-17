@@ -18,7 +18,7 @@ get_values() {
 fill_template() {
     get_values
     . .env
-    . supply_values.sh .
+    . values.sh .
 }
 
 setup_haproxy() {
